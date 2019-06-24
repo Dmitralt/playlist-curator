@@ -1,0 +1,29 @@
+{
+	"name": "playlist-curator",
+	"version": "0.1.0-beta",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "BBT",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.4.5",
+		"@babel/plugin-proposal-class-properties": "^7.4.4",
+		"@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+		"@babel/preset-env": "^7.4.5",
+		"@babel/preset-typescript": "^7.3.3",
+		"@types/bson": "^4.0.0",
+		"@types/jest": "^24.0.15",
+		"bson": "^4.0.2",
+		"jest": "^24.8.0",
+		"prettier": "^1.18.2",
+		"ts-jest": "^24.0.2",
+		"typescript": "^3.5.2"
+	},
+	"dependencies": {
+		"moment": "^2.24.0"
+	}
+}
